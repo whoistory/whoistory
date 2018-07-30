@@ -1,16 +1,15 @@
 # whoistory
 This code / PoC is part of an MSc project.
-It aims to visualise relations between historical WHOIS objects and its attributes, using Maltego local transform
-and custom entities.
+It aims to visualise relations between historical WHOIS objects and its attributes, using Maltego local transforms and custom entities.
 
 Prerequisites:
 --------------
 - Python (tested with version 2.7.10 on Mac OS X 10.13.6)
-- Maltego Classic (tested with 4.1.12.11480, Java 1.8.0_131)
+- Maltego Classic (tested with version 4.1.12.11480, and Java 1.8.0_131)
 
 Limitations
 -----------
-- Only works with RIPE  WHOIS Database for now.
+- Only works with the RIPE WHOIS Database for now.
 - It's about Internet Number Resources (IP addresses, AS numbers), not domains
 - PoC code might not work properly for all use cases.
 
