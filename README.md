@@ -1,6 +1,6 @@
 # whoistory
 This code / PoC is part of an MSc project.
-It aims to visualise relations between historical WHOIS objects and its attributes, using Maltego local transforms and custom entities.
+It aims to visualise relations between historical WHOIS objects and its attributes, using custom Maltego local transforms and custom entities.
 
 Prerequisites:
 --------------
