@@ -1,7 +1,7 @@
 # whoistory
 This code / PoC is part of an MSc project.
-It aims to visualise relations between historical WHOIS objects and attributes.
-
+It aims to visualise relations between historical WHOIS objects and its attributes, using Maltego local transform
+and custom entities.
 
 Prerequisites:
 --------------
@@ -19,8 +19,10 @@ Road map
 - Clean up, improve current code
 - Add code to query APNIC and AFRINIC historical WHOIS records
 
-Let me know if you've found bugs, have feauture requests, or what to participate in this small project.
+Disclaimer
+----------
+I'm not a coder, so the code might need some improvements. Be gentle. :-)
 
-Disclaimer: I'm not a coder, so be gentle.
+Let me know if you've found bugs, have feauture requests, or want to participate in this small project.
 
-IRD. 
+IRD
