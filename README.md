@@ -2,6 +2,8 @@
 This code / PoC is part of an MSc project.
 It aims to visualise relations between historical WHOIS objects and its attributes, using custom Maltego local transforms and custom entities.
 
+*NB*: for installation and configuration instructions, see the Wiki page.
+
 Prerequisites:
 --------------
 - Python (tested with version 2.7.10 on Mac OS X 10.13.6)
@@ -22,6 +24,6 @@ Disclaimer
 ----------
 I'm not a coder, so the code might need some improvements. Be gentle. :-)
 
-Let me know if you've found bugs, have feauture requests, or want to participate in this small project.
+Let me know if you've found bugs, have feature requests, or want to participate in this small project.
 
 IRD
