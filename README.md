@@ -2,7 +2,7 @@
 This code / PoC is part of an MSc project.
 It aims to visualise relations between historical WHOIS objects and its attributes, using custom Maltego local transforms and custom entities.
 
-*NB*: for installation and configuration instructions, see the ![Wiki page](https://github.com/whoistory/whoistory/wiki).
+*NB*: for installation and configuration instructions, see the [Wiki page](https://github.com/whoistory/whoistory/wiki).
 
 Prerequisites:
 --------------
